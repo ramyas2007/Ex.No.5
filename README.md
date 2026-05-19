@@ -31,8 +31,48 @@ Deliverables:
 A table comparing ChatGPT's responses to naïve and basic prompts across all scenarios.
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
+# PROMPT:
+## Objective
+To analyze and compare different prompt engineering techniques used in Large Language Models (LLMs) for improving response quality, accuracy, reasoning, and contextual understanding.
 
+## Prompt Used
+Design a comparative analysis report on various prompt engineering patterns used in AI systems.
+
+Include:
+- Introduction to Prompt Engineering
+- Taxonomy of prompting patterns such as:
+  - Broad Prompting
+  - Refined Prompting
+  - Zero-Shot Prompting
+  - Few-Shot Prompting
+  - Chain-of-Thought Prompting
+  - Role-Based Prompting
+- Experimental scenarios comparing prompt outputs
+- Accuracy, creativity, logic, context awareness, and hallucination risk comparison matrix
+- Real-world applications in healthcare, finance, research, and robotics
+- Final conclusion on best prompt engineering practices
+
+Format the report professionally with:
+- Headings and subheadings
+- Examples for each prompting pattern
+- Comparison tables
+- Analytical discussion
+- Research-oriented conclusion
+
+## Technologies Used
+- Prompt Engineering
+- Large Language Models (LLMs)
+- AI Report Generation
+- Comparative Analysis
+
+## Outcome
+This project demonstrates how structured prompts significantly improve AI output quality compared to unstructured prompts. It highlights the importance of prompt architecture in reducing hallucinations and improving reasoning capabilities.
+
+## Key Learning
+Role + Context + Task + Constraint = Effective Prompt Formula
 
 # OUTPUT
+[Prompt_Engineering_Comparative_Analysis.pdf](https://github.com/user-attachments/files/27982246/Prompt_Engineering_Comparative_Analysis.pdf)
+
 
 # RESULT: The prompt for the above said problem executed successfully
